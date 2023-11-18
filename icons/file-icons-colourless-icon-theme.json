@@ -10401,6 +10401,7 @@
 		".fossil-settings": "_fossil",
 		".github": "_github",
 		".gitlab": "_gitlab",
+		".godot": "_godot",
 		".hg": "_hg",
 		".meteor": "_meteor",
 		".node-gyp": "_node",

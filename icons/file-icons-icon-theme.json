@@ -4500,6 +4500,11 @@
 			"fontId": "fi",
 			"fontSize": "114%"
 		},
+		"_godot": {
+			"fontCharacter": "\\e974",
+			"fontId": "fi",
+			"fontSize": "107%"
+		},
 		"_godot_dark-blue": {
 			"fontCharacter": "\\e974",
 			"fontColor": "#46788d",
@@ -17775,6 +17780,7 @@
 		".fossil-settings": "_fossil",
 		".github": "_github",
 		".gitlab": "_gitlab",
+		".godot": "_godot",
 		".hg": "_hg_medium-grey",
 		".meteor": "_meteor_dark-orange",
 		".node-gyp": "_node_dark-green",
